@@ -24,16 +24,10 @@ web development. [^1]
 
 > :memo: **Note:** This class is super fun.
 
-[^1]: We have learned the following by now:
-- Github
-- Markdown
-- Github in groups
-- A set hackathon
-- Document conversion
-- Deployment 
-
 [^note]:
     This class takes place in the J110 room every Friday from 2:25 PM - 6:00 PM.
+
+## Code Sample - Markdown
 
 ``` markdown
 | Tables        | Are           | Cool  |
@@ -42,3 +36,11 @@ web development. [^1]
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 ```
+
+[^1]: We have learned the following by now:
+- Github
+- Markdown
+- Github in groups
+- A set hackathon
+- Document conversion
+- Deployment 
