@@ -44,4 +44,4 @@ web development. [^1]
 - Document conversion
 - Deployment 
 
-[^1]: We have learned the topics above by now:
+[^1]: We have learned the above topics by now:
