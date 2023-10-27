@@ -9,15 +9,36 @@ A repository to store all the course content files for **'Workshops in Web Devel
 - Adam Thomas ([Github](https://github.com/codeadamca))
 - Gaurav Bhanot
 
+---
+
+## What We Learn
+
+This class is all about mixing up fun with learning. The instructors create an engaging environment for the students and they carry out tasks related to 
+web development. [^1]
+
 
 ![Albuquerque, New Mexico](./_readme/CodeJoke.jpg)
+
 *A programming meme taken from the movie "Journey to the center of the Earth"*
 
 
 > :memo: **Note:** This class is super fun.
 
-> [^1]: The reasons behind it:
-> [^2]: The way every lessons are so practical and engaging.
-    The coding memes.
-> [^note]:
+[^1]: We have learned the following by now:
+- Github
+- Markdown
+- Github in groups
+- A set hackathon
+- Document conversion
+- Deployment 
+
+[^note]:
     This class takes place in the J110 room every Friday from 2:25 PM - 6:00 PM.
+
+``` markdown
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+```
