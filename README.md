@@ -17,7 +17,7 @@ This class is all about mixing up fun with learning. The instructors create an e
 web development. [^1]
 
 
-![Albuquerque, New Mexico](./_readme/CodeJoke.jpg)
+![The Rock](./_readme/CodeJoke.jpg)
 
 *A programming meme taken from the movie "Journey to the center of the Earth"*
 
