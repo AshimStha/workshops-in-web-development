@@ -37,10 +37,11 @@ web development. [^1]
 | zebra stripes | are neat      |    $1 |
 ```
 
-[^1]: We have learned the following by now:
 - Github
 - Markdown
 - Github in groups
 - A set hackathon
 - Document conversion
 - Deployment 
+
+[^1]: We have learned the topics above by now:
